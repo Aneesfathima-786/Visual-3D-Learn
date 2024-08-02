@@ -1,3 +1,4 @@
+![ar 1](https://github.com/user-attachments/assets/d6918d51-465b-40df-b900-b353109272db)
 # HackHaward
 
 ## Live demo
@@ -66,6 +67,32 @@ Required to install and run the software:
 ## Installing and Running
 
 From the project folder, run these commands in console (terminal) to install dependencies and run the app:
+
+![vsl -1](https://github.com/user-attachments/assets/cb635719-e68f-4d37-82e0-bce99d77ffad)
+
+![vsl2](https://github.com/user-attachments/assets/fe35c78e-49dd-4347-bcf1-ddf397288706)
+
+![vsl3](https://github.com/user-attachments/assets/3026d473-9f23-4556-af98-4133fa1f47f5)
+
+![vsl4](https://github.com/user-attachments/assets/c0140c6b-bc82-45ba-b5e8-00d5628f5bfa)
+
+![vls4](https://github.com/user-attachments/assets/25973040-8fd8-47f5-bcae-82a8bfc60f6f)
+
+![vsls 6](https://github.com/user-attachments/assets/d7c9c239-6878-4bf0-ab81-d450eccb40d7)
+
+![vls 7](https://github.com/user-attachments/assets/78d7dd10-1cb2-4326-9195-4ba60d75440b)
+
+![vls55](https://github.com/user-attachments/assets/757da81e-e05a-4cd3-93e7-cf14c263f690)
+
+
+
+
+
+
+
+
+
+
 
 ```
 npm install
