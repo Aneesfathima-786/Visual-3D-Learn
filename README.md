@@ -1,4 +1,3 @@
-![ar 1](https://github.com/user-attachments/assets/d6918d51-465b-40df-b900-b353109272db)
 # HackHaward
 
 ## Live demo
