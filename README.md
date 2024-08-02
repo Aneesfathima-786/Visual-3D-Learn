@@ -3,7 +3,7 @@
 
 ## Live demo
 
-The site is deployed through Vercel, which you can view from [here](https://the-night-sky.vercel.app/)
+The site is deployed through Vercel, which you can view from [here](https://visual3d.vercel.app/)
 
 ## Demo video
 
@@ -80,9 +80,13 @@ From the project folder, run these commands in console (terminal) to install dep
 
 ![vsls 6](https://github.com/user-attachments/assets/d7c9c239-6878-4bf0-ab81-d450eccb40d7)
 
+![vls55](https://github.com/user-attachments/assets/757da81e-e05a-4cd3-93e7-cf14c263f690)
+
 ![vls 7](https://github.com/user-attachments/assets/78d7dd10-1cb2-4326-9195-4ba60d75440b)
 
-![vls55](https://github.com/user-attachments/assets/757da81e-e05a-4cd3-93e7-cf14c263f690)
+
+
+
 
 
 
